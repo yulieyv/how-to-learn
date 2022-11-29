@@ -279,13 +279,6 @@
   font-weight: 600;
 }
 
-.table__text {
-  font-size: 18px;
-  line-height: 1.2;
-  font-weight: normal;
-  margin: 20px 0 0;
-}
-
 .table__text_theme_dark {
   margin: 20px 0 0;
 }
