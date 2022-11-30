@@ -249,14 +249,6 @@
   z-index: 1;
 }
 
-.table {
-  width: 1100px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  margin: auto;
-}
-
 .table_theme_dark {
   position: relative;
   z-index: 1;
