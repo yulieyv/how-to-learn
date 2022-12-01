@@ -157,6 +157,7 @@
   flex-wrap: wrap;
   justify-content: space-between;
   margin: auto;
+  padding: 0;
 }
 
 .table__cell {
@@ -239,7 +240,6 @@
 .section-title_theme_dark {
   color: #fff;
   position: relative;
-  font-weight: normal;
   z-index: 1;
 }
 
@@ -275,6 +275,7 @@
 
 .footer {
   box-sizing: border-box;
+  display: flex;
   background-color: #1F1F1F;
   min-height: 350px;
   padding: 60px 0 40px;
@@ -285,7 +286,7 @@
   display: flex;
   justify-content: space-between;
   width: 90%;
-  margin: auto;
+  margin: 0 auto 0;
 }
 
 .footer__column_content_copyright {
