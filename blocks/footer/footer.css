@@ -1,0 +1,8 @@
+.footer {
+  box-sizing: border-box;
+  display: flex;
+  background-color: #1F1F1F;
+  min-height: 350px;
+  padding: 60px 0 40px;
+  color: #fff;
+}
